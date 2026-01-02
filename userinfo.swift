@@ -1,4 +1,5 @@
-
+// This program demonstrates basic input/output in Swift
+// Ask for and display user's name and age
 
 import Foundation  // Import Foundation framework for input/output functions
 
